@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+    background-color: #fff;
+}
+#page1{
+    height:100vh;
+    width:100%;
+    background: url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a75_hotel-12.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;
+   
+}
+#page2{
+    height:100vh;
+    width:100%;
+    background: url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a6f_hotel-11.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;   
+}
+#page3{
+    height:100vh;
+    width:100%;
+    background: url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a68_hotel-10.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;   
+}
+#page4{
+    height:100vh;
+    width:100%;
+    background:url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a6a_hotel-9.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;   
+}
+#page5{
+    height:100vh;
+    width:100%;
+    background: url(https://cdn.prod.website-files.com/6530f5d6934f3eadeca5a691/65b1394e452712e470767d0f_hotel-8.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;   
+} 
+#page6{
+    height:100vh;
+    width:100%;
+    background:url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a67_hotel-7.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;   
+}
+#page7{
+    height:100vh;
+    width:100%;
+    background: url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a66_hotel-6.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;   
+} 
+#page8{
+    height:100vh;
+    width:100%;
+    background:url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a69_hotel-4.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;   
+}
+#page9{
+    height:100vh;
+    width:100%;
+    background:url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a65_hotel-3.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;   
+}
+#page10{
+    height:100vh;
+    width:100%;
+    background:url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a60_hotel-2.png);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;   
+} 
+#page11{
+    height:100vh;
+    width:100%;
+    background:url(https://cdn.prod.website-files.com/679dfceb0a1e43385e3d39d7/679dfceb0a1e43385e3d3a62_hotel-1.png);
+    background-position: center;
+    background-attachment: fixed;   
+}
